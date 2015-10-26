@@ -1,0 +1,11 @@
+*{
+border-radius:0 !important;
+box-shadow:none !important;
+background-image:none !important;
+}
+.avatar { 
+border-radius:50% !important; 
+}
+#Wrapper{ 
+background-color:#e2e2e2 
+}
